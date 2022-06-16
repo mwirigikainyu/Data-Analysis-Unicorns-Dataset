@@ -8,3 +8,4 @@ Basic data science clean up of a kaggle dataset on worldwide unicorns from 2016 
 
 - [x] Clean the Data
 - [ ] Data Visualisation
+- [ ] Feature Engineering?
